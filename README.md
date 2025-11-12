@@ -51,9 +51,9 @@ JAVA0078_M6_ConsumoAPI/
 │   │   │   └── cl/web/
 │   │   │       ├── config
 │   │   │       │   └── RestTemplateConfig.java
-│   │   │       ├── controller/
+│   │   │       ├── controllers/
 │   │   │       │   └── ApiClientController.java
-│   │   │       └── service/
+│   │   │       └── services/
 │   │   │           └── ApiClientService.java
 │   │   ├── resources/
 │   │   │   └── application.properties
